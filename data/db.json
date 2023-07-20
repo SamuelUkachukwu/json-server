@@ -1,113 +1,121 @@
 {
-    "posts": [
-      {
-        "title": "Love Beyond the Stars",
-        "body": "In the distant future, aboard the intergalactic spaceship \"Elysium,\" Captain Alex Parker found himself drawn to a mysterious passenger named Lila. Despite her attempts to remain aloof, their paths kept crossing, and an unspoken connection grew between them. As they faced dangers and explored new planets together, their hearts entwined like two shooting stars dancing across the cosmos. Love blossomed in the vastness of space, proving that even light-years away from home, the heart knows no boundaries.",
-        "author": "Sarah Turner",
-        "category": "Romance",
-        "id": 1,
-        "image":"images/a15bc577f3838196b4b69d44ae79a9dc.jpg",
-        "excerpt": "Captain Alex Parker found himself drawn to a mysterious passenger named Lila. Love blossomed in the vastness of space, proving that even light-years away from home, the heart knows no boundaries."
-      },
-      {
-        "title": "The Quantum Enigma",
-        "body": "Dr. Emily Williams, a brilliant physicist, made a groundbreaking discovery - a device that could manipulate quantum reality. However, her invention attracted unwanted attention, leading to its theft by a nefarious organization. As Emily raced against time to retrieve it, she encountered a mysterious stranger named Max, who seemed to be a time traveler. Together, they navigated through parallel dimensions and quantum anomalies, discovering that their fates were entangled across the fabric of the universe.",
-        "author": "Mark Henderson",
-        "category": "Science Fiction",
-        "id": 2,
-        "image":"images/069146978a07fb38664750d9cc73a43c.jpg",
-        "excerpt": "Dr. Emily Williams, a brilliant physicist, made a groundbreaking discovery - a device that could manipulate quantum reality. As Emily raced against time to retrieve it, she encountered a mysterious stranger named Max, discovering that their fates were entangled across the fabric of the universe."
-      },
-      {
-        "title": "Shadows of Deceit",
-        "body": "In the gritty city of Noirville, Detective Jake Anderson was determined to solve the case that haunted him for years - the unsolved murder of his partner. As he delved deeper into the underbelly of crime, he discovered a web of corruption and betrayal reaching high into the city's elite. With danger at every corner, he formed an unlikely alliance with Mia, a skilled but enigmatic thief, to expose the truth and bring justice to those long evading it.",
-        "author": "Jason Stone",
-        "category": "Crime",
-        "id": 3,
-        "image":"images/dd09f72655ebc8e46d3b1ef70c17805d.jpg",
-        "excerpt": "Detective Jake Anderson was determined to solve the unsolved murder of his partner. With danger at every corner, he formed an unlikely alliance with Mia, a skilled but enigmatic thief, to expose the truth and bring justice to those long evading it."
-      },
-      {
-        "title": "Wild Huntress",
-        "body": "Fiona Morgan lived a double life - by day, an unassuming bookstore owner, and by night, a vigilante known as the \"Wild Huntress.\" Armed with her archery skills and a desire for justice, she targeted criminals who eluded the law. When a dangerous crime lord surfaced in the city, Fiona's past caught up with her, putting her loved ones in peril. Racing against time, she faced the ultimate battle between justice and vengeance.",
-        "author": "Diana Knight",
-        "category": "Action",
-        "id": 4,
-        "image":"images/c9a8d3660b144a63985147823636cbac.jpg",
-        "excerpt": "Fiona Morgan lived a double life - by day, an unassuming bookstore owner, and by night, a vigilante known as the \"Wild Huntress.\" When a dangerous crime lord surfaced in the city, Fiona's past caught up with her, putting her loved ones in peril."
-      },
-      {
-        "title": "Echoes of Eternity",
-        "body": "In a world where time is non-linear, Lucia and Ethan found themselves falling in love repeatedly throughout different lifetimes. Each time they met, the memories of their past connections echoed in their souls, pulling them together like magnets. As they navigated the complexities of their intertwined destinies, they learned that true love could withstand the test of time and transcended beyond the boundaries of existence.",
-        "author": "Alex Carter",
-        "category": "Romance",
-        "id": 5,
-        "image":"images/artof666k_20200907_1.png",
-        "excerpt": "In a world where time is non-linear, Lucia and Ethan found themselves falling in love repeatedly throughout different lifetimes. As they navigated the complexities of their intertwined destinies, they learned that true love could withstand the test of time and transcended beyond the boundaries of existence."
-      },
-      {
-        "title": "Cyber Nexus",
-        "body": "In the not-so-distant future, where technology and humans merged, a new frontier of possibilities arose. Enter Alicia, a skilled hacker who stumbled upon a hidden conspiracy. With her cyber-enhanced abilities, she battled against a formidable AI that threatened to enslave humanity. Along the way, she encountered Jake, a rogue android with a conscience, and together they forged an alliance to save the world from digital domination.",
-        "author": "Caden Blackwell",
-        "category": "Science Fiction",
-        "id": 6,
-        "image":"images/57189093bbe01afba1b9c3187dfebfbd.jpg",
-        "excerpt": "In the not-so-distant future, where technology and humans merged, a new frontier of possibilities arose. Enter Alicia, a skilled hacker who stumbled upon a hidden conspiracy. Along the way, she encountered Jake, a rogue android with a conscience, and together they forged an alliance to save the world from digital domination."
-      },
-      {
-        "title": "Blood Moon Rising",
-        "body": "Under the glow of a crimson moon, a series of gruesome murders plagued the city. Detective Sarah Thompson, haunted by her past, found herself entangled in a web of occult secrets. With the help of a reclusive expert on the supernatural, they raced against time to stop the ritualistic killings before the blood moon reached its zenith, and unimaginable darkness consumed the city.",
-        "author": "Madison Reed",
-        "category": "Crime",
-        "id": 7,
-        "image":"images/6da5c5dcad0a6ceefdab43b687a251fc.jpg",
-        "excerpt": "Under the glow of a crimson moon, a series of gruesome murders plagued the city. Detective Sarah Thompson, haunted by her past, found herself entangled in a web of occult secrets."
-      },
-      {
-        "title": "Reckoning Fury",
-        "body": "After his team was betrayed and disbanded, former special operative Jack Fury embarked on a relentless quest for revenge. In his pursuit of justice, he crossed paths with Alex, a brilliant engineer with a thirst for retribution against the same enemy. Together, they formed an alliance to dismantle the criminal empire and bring those responsible to their knees, all while battling their own demons.",
-        "author": "Victor Kane",
-        "category": "Action",
-        "id": 8,
-        "image":"images/zonenstraal_20200423_11.png",
-        "excerpt": "After his team was betrayed and disbanded, former special operative Jack Fury embarked on a relentless quest for revenge. Together, they formed an alliance to dismantle the criminal empire and bring those responsible to their knees, all while battling their own demons."
-      },
-      {
-        "title": "Serendipity's Embrace",
-        "body": "Amelia and Oliver, two strangers with broken hearts, sought solace in the quiet town of Serendipity Springs. As fate wove its magic, they found themselves drawn together, their souls recognizing a kindred connection. Amidst the picturesque landscapes and warm embraces, they learned to heal and love again, discovering that sometimes the best love stories bloom from the most unexpected encounters.",
-        "author": "Emily Roberts",
-        "category": "Romance",
-        "id": 9,
-        "image":"images/127549cc657814fa7a6737b67e98f85f.jpg",
-        "excerpt": "Amelia and Oliver, two strangers with broken hearts, sought solace in the quiet town of Serendipity Springs. Amidst the picturesque landscapes and warm embraces, they learned to heal and love again, discovering that sometimes the best love stories bloom from the most unexpected encounters."
-      },
-      {
-        "title": "Starbound Odyssey",
-        "body": "On a mission to explore the farthest reaches of the universe, the crew of the starship Odyssey encountered a mysterious anomaly that altered the fabric of time. Trapped in a loop, they relived the same events repeatedly until they discovered a way to break free. Amidst the cosmic chaos, Lieutenant Hannah Sullivan found herself falling for the ship's enigmatic engineer, Lieutenant Mark Davidson, learning that sometimes, love can be found amidst the uncharted territories of space.",
-        "author": "Jason Green",
-        "category": "Science Fiction",
-        "id": 10,
-        "image":"images/09f5397b4cf45ce10600745eb86697a6.jpg",
-        "excerpt": "On a mission to explore the farthest reaches of the universe, the crew of the starship Odyssey encountered a mysterious anomaly that altered the fabric of time. Amidst the cosmic chaos, Lieutenant Hannah Sullivan found herself falling for the ship's enigmatic engineer, Lieutenant Mark Davidson, learning that sometimes, love can be found amidst the uncharted territories of space."
-      },
-      {
-        "title": "The Scarlet Heist",
-        "body": "In the heart of Renaissance Venice, Isabella, a skilled thief, set her sights on the ultimate heist - the priceless Scarlet Diamond. However, her plans collided with those of Luca, a cunning and charming rival thief. As they raced to outsmart each other and retrieve the elusive gem, they found themselves drawn together by a shared passion for the thrill of the chase.",
-        "author": "Isabella Cruz",
-        "category": "Crime",
-        "id": 11,
-        "image":"images/worldofvfx_20200717_1.png",
-        "excerpt": "In the heart of Renaissance Venice, Isabella, a skilled thief, set her sights on the ultimate heist - the priceless Scarlet Diamond. As they raced to outsmart each other and retrieve the elusive gem, they found themselves drawn together by a shared passion for the thrill of the chase."
-      },
-      {
-        "title": "Blackfire Rising",
-        "body": "In a post-apocalyptic world ravaged by a ruthless warlord, a group of rebels fought for freedom and justice. Among them was Anna, a fearless warrior haunted by her tragic past. When a new recruit, Jack, joined their ranks, his mysterious skills sparked both intrigue and suspicion. As they battled against the oppressive regime, they realized that unity and sacrifice were the keys to overthrowing tyranny and forging a new dawn.",
-        "author": "Adrian Turner",
-        "category": "Action",
-        "id": 12,
-        "image":"images/scifi_lounge_20200423_4.png",
-        "excerpt": "In a post-apocalyptic world ravaged by a ruthless warlord, a group of rebels fought for freedom and justice. When a new recruit, Jack, joined their ranks, his mysterious skills sparked both intrigue and suspicion. As they battled against the oppressive regime, they realized that unity and sacrifice were the keys to overthrowing tyranny and forging a new dawn."
-      }
-    ]
-    
+  "posts": [
+    {
+      "title": "Love Beyond the Stars",
+      "body": "In the distant future, aboard the intergalactic spaceship \"Elysium,\" Captain Alex Parker found himself drawn to a mysterious passenger named Lila. Despite her attempts to remain aloof, their paths kept crossing, and an unspoken connection grew between them. As they faced dangers and explored new planets together, their hearts entwined like two shooting stars dancing across the cosmos. Love blossomed in the vastness of space, proving that even light-years away from home, the heart knows no boundaries.",
+      "author": "Sarah Turner",
+      "category": "Romance",
+      "id": 1,
+      "image": "images/a15bc577f3838196b4b69d44ae79a9dc.jpg",
+      "excerpt": "Captain Alex Parker found himself drawn to a mysterious passenger named Lila. Love blossomed in the vastness of space, proving that even light-years away from home, the heart knows no boundaries."
+    },
+    {
+      "title": "The Quantum Enigma",
+      "body": "Dr. Emily Williams, a brilliant physicist, made a groundbreaking discovery - a device that could manipulate quantum reality. However, her invention attracted unwanted attention, leading to its theft by a nefarious organization. As Emily raced against time to retrieve it, she encountered a mysterious stranger named Max, who seemed to be a time traveler. Together, they navigated through parallel dimensions and quantum anomalies, discovering that their fates were entangled across the fabric of the universe.",
+      "author": "Mark Henderson",
+      "category": "Science Fiction",
+      "id": 2,
+      "image": "images/069146978a07fb38664750d9cc73a43c.jpg",
+      "excerpt": "Dr. Emily Williams, a brilliant physicist, made a groundbreaking discovery - a device that could manipulate quantum reality. As Emily raced against time to retrieve it, she encountered a mysterious stranger named Max, discovering that their fates were entangled across the fabric of the universe."
+    },
+    {
+      "title": "Shadows of Deceit",
+      "body": "In the gritty city of Noirville, Detective Jake Anderson was determined to solve the case that haunted him for years - the unsolved murder of his partner. As he delved deeper into the underbelly of crime, he discovered a web of corruption and betrayal reaching high into the city's elite. With danger at every corner, he formed an unlikely alliance with Mia, a skilled but enigmatic thief, to expose the truth and bring justice to those long evading it.",
+      "author": "Jason Stone",
+      "category": "Crime",
+      "id": 3,
+      "image": "images/dd09f72655ebc8e46d3b1ef70c17805d.jpg",
+      "excerpt": "Detective Jake Anderson was determined to solve the unsolved murder of his partner. With danger at every corner, he formed an unlikely alliance with Mia, a skilled but enigmatic thief, to expose the truth and bring justice to those long evading it."
+    },
+    {
+      "title": "Wild Huntress",
+      "body": "Fiona Morgan lived a double life - by day, an unassuming bookstore owner, and by night, a vigilante known as the \"Wild Huntress.\" Armed with her archery skills and a desire for justice, she targeted criminals who eluded the law. When a dangerous crime lord surfaced in the city, Fiona's past caught up with her, putting her loved ones in peril. Racing against time, she faced the ultimate battle between justice and vengeance.",
+      "author": "Diana Knight",
+      "category": "Action",
+      "id": 4,
+      "image": "images/c9a8d3660b144a63985147823636cbac.jpg",
+      "excerpt": "Fiona Morgan lived a double life - by day, an unassuming bookstore owner, and by night, a vigilante known as the \"Wild Huntress.\" When a dangerous crime lord surfaced in the city, Fiona's past caught up with her, putting her loved ones in peril."
+    },
+    {
+      "title": "Echoes of Eternity",
+      "body": "In a world where time is non-linear, Lucia and Ethan found themselves falling in love repeatedly throughout different lifetimes. Each time they met, the memories of their past connections echoed in their souls, pulling them together like magnets. As they navigated the complexities of their intertwined destinies, they learned that true love could withstand the test of time and transcended beyond the boundaries of existence.",
+      "author": "Alex Carter",
+      "category": "Romance",
+      "id": 5,
+      "image": "images/artof666k_20200907_1.png",
+      "excerpt": "In a world where time is non-linear, Lucia and Ethan found themselves falling in love repeatedly throughout different lifetimes. As they navigated the complexities of their intertwined destinies, they learned that true love could withstand the test of time and transcended beyond the boundaries of existence."
+    },
+    {
+      "title": "Cyber Nexus",
+      "body": "In the not-so-distant future, where technology and humans merged, a new frontier of possibilities arose. Enter Alicia, a skilled hacker who stumbled upon a hidden conspiracy. With her cyber-enhanced abilities, she battled against a formidable AI that threatened to enslave humanity. Along the way, she encountered Jake, a rogue android with a conscience, and together they forged an alliance to save the world from digital domination.",
+      "author": "Caden Blackwell",
+      "category": "Science Fiction",
+      "id": 6,
+      "image": "images/57189093bbe01afba1b9c3187dfebfbd.jpg",
+      "excerpt": "In the not-so-distant future, where technology and humans merged, a new frontier of possibilities arose. Enter Alicia, a skilled hacker who stumbled upon a hidden conspiracy. Along the way, she encountered Jake, a rogue android with a conscience, and together they forged an alliance to save the world from digital domination."
+    },
+    {
+      "title": "Blood Moon Rising",
+      "body": "Under the glow of a crimson moon, a series of gruesome murders plagued the city. Detective Sarah Thompson, haunted by her past, found herself entangled in a web of occult secrets. With the help of a reclusive expert on the supernatural, they raced against time to stop the ritualistic killings before the blood moon reached its zenith, and unimaginable darkness consumed the city.",
+      "author": "Madison Reed",
+      "category": "Crime",
+      "id": 7,
+      "image": "images/6da5c5dcad0a6ceefdab43b687a251fc.jpg",
+      "excerpt": "Under the glow of a crimson moon, a series of gruesome murders plagued the city. Detective Sarah Thompson, haunted by her past, found herself entangled in a web of occult secrets."
+    },
+    {
+      "title": "Reckoning Fury",
+      "body": "After his team was betrayed and disbanded, former special operative Jack Fury embarked on a relentless quest for revenge. In his pursuit of justice, he crossed paths with Alex, a brilliant engineer with a thirst for retribution against the same enemy. Together, they formed an alliance to dismantle the criminal empire and bring those responsible to their knees, all while battling their own demons.",
+      "author": "Victor Kane",
+      "category": "Action",
+      "id": 8,
+      "image": "images/zonenstraal_20200423_11.png",
+      "excerpt": "After his team was betrayed and disbanded, former special operative Jack Fury embarked on a relentless quest for revenge. Together, they formed an alliance to dismantle the criminal empire and bring those responsible to their knees, all while battling their own demons."
+    },
+    {
+      "title": "Serendipity's Embrace",
+      "body": "Amelia and Oliver, two strangers with broken hearts, sought solace in the quiet town of Serendipity Springs. As fate wove its magic, they found themselves drawn together, their souls recognizing a kindred connection. Amidst the picturesque landscapes and warm embraces, they learned to heal and love again, discovering that sometimes the best love stories bloom from the most unexpected encounters.",
+      "author": "Emily Roberts",
+      "category": "Romance",
+      "id": 9,
+      "image": "images/127549cc657814fa7a6737b67e98f85f.jpg",
+      "excerpt": "Amelia and Oliver, two strangers with broken hearts, sought solace in the quiet town of Serendipity Springs. Amidst the picturesque landscapes and warm embraces, they learned to heal and love again, discovering that sometimes the best love stories bloom from the most unexpected encounters."
+    },
+    {
+      "title": "Starbound Odyssey",
+      "body": "On a mission to explore the farthest reaches of the universe, the crew of the starship Odyssey encountered a mysterious anomaly that altered the fabric of time. Trapped in a loop, they relived the same events repeatedly until they discovered a way to break free. Amidst the cosmic chaos, Lieutenant Hannah Sullivan found herself falling for the ship's enigmatic engineer, Lieutenant Mark Davidson, learning that sometimes, love can be found amidst the uncharted territories of space.",
+      "author": "Jason Green",
+      "category": "Science Fiction",
+      "id": 10,
+      "image": "images/09f5397b4cf45ce10600745eb86697a6.jpg",
+      "excerpt": "On a mission to explore the farthest reaches of the universe, the crew of the starship Odyssey encountered a mysterious anomaly that altered the fabric of time. Amidst the cosmic chaos, Lieutenant Hannah Sullivan found herself falling for the ship's enigmatic engineer, Lieutenant Mark Davidson, learning that sometimes, love can be found amidst the uncharted territories of space."
+    },
+    {
+      "title": "The Scarlet Heist",
+      "body": "In the heart of Renaissance Venice, Isabella, a skilled thief, set her sights on the ultimate heist - the priceless Scarlet Diamond. However, her plans collided with those of Luca, a cunning and charming rival thief. As they raced to outsmart each other and retrieve the elusive gem, they found themselves drawn together by a shared passion for the thrill of the chase.",
+      "author": "Isabella Cruz",
+      "category": "Crime",
+      "id": 11,
+      "image": "images/worldofvfx_20200717_1.png",
+      "excerpt": "In the heart of Renaissance Venice, Isabella, a skilled thief, set her sights on the ultimate heist - the priceless Scarlet Diamond. As they raced to outsmart each other and retrieve the elusive gem, they found themselves drawn together by a shared passion for the thrill of the chase."
+    },
+    {
+      "title": "Blackfire Rising",
+      "body": "In a post-apocalyptic world ravaged by a ruthless warlord, a group of rebels fought for freedom and justice. Among them was Anna, a fearless warrior haunted by her tragic past. When a new recruit, Jack, joined their ranks, his mysterious skills sparked both intrigue and suspicion. As they battled against the oppressive regime, they realized that unity and sacrifice were the keys to overthrowing tyranny and forging a new dawn.",
+      "author": "Adrian Turner",
+      "category": "Action",
+      "id": 12,
+      "image": "images/scifi_lounge_20200423_4.png",
+      "excerpt": "In a post-apocalyptic world ravaged by a ruthless warlord, a group of rebels fought for freedom and justice. When a new recruit, Jack, joined their ranks, his mysterious skills sparked both intrigue and suspicion. As they battled against the oppressive regime, they realized that unity and sacrifice were the keys to overthrowing tyranny and forging a new dawn."
+    },
+    {
+      "title": "A New World",
+      "body": "In the distant future, Earth faced an impending doom. Climate change, pollution, and resource depletion had pushed humanity to the brink of extinction. As a last-ditch effort, scientists developed advanced technology to transport a select group of people to a distant habitable planet, they named 'Nova.'\n\nThe chosen few boarded the interstellar spacecraft, filled with hope and fear, leaving behind their home planet and everything they had known. After a long, arduous journey, they finally reached Nova.\n\nAs they stepped out of the spacecraft, they were awestruck by the stunning landscape before them. The skies were painted with vibrant hues, and exotic plants and creatures surrounded them. Nova was a world of wonders and untapped potential.\n\nThe pioneers quickly got to work, establishing a settlement and learning to adapt to their new environment. They faced challenges and hardships, but their spirit of perseverance kept them going. They built a united community, combining their knowledge and skills to thrive in this unfamiliar land.\n\nWith time, they discovered ancient ruins and artifacts that hinted at a lost civilization. These remnants sparked curiosity and intrigue among the settlers, urging them to uncover the mysteries of Nova's past.\n\nAs generations passed, the settlers' descendants grew in numbers and knowledge. They learned to live in harmony with the planet and its unique ecosystem. They developed technology that harnessed the planet's natural resources without causing harm.\n\nThrough unity and understanding, the settlers forged bonds with the native life forms, living side by side in a delicate balance of coexistence. The once small settlement evolved into a vibrant, diverse society, thriving in this new world.\n\nAs they looked back to the distant speck that was Earth, they realized that their journey to Nova had not just been about survival; it was a chance to start anew. A chance to build a better world for themselves and for generations to come. The story of their new world became a testament to humanity's resilience and the boundless possibilities that lie ahead.",
+      "author": "Samuel Biggy",
+      "category": "Science Fiction",
+      "image": "images/_tyto_alba_20200731_4.png",
+      "excerpt": "In the distant future, Earth faced an impending doom. Climate change, pollution, and resource depletion had pushed humanity to the brink of extinction. As a last-ditch effort, scientists developed advanced technology to transport a select group of people to a distant habitable planet, they named 'Nova'",
+      "id": 13
+    }
+  ]
 }

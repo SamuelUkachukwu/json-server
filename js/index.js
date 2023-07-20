@@ -4,7 +4,8 @@ const container = document.querySelector('.blogs');
 const renderPost = async () => {
     // Your asynchronous code here to render the post
     console.log("Rendering the post...");
-    let url = "http://localhost:3000/posts/";
+    // let url = "http://localhost:3000/posts/"; // if u just want the data to flow from top to bottom
+    let url = "http://localhost:3000/posts?_sort=author&_order=desc";
 
     const response = await fetch(url);
     // console.log(response)
