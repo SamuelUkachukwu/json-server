@@ -14,8 +14,10 @@ const renderDetails = async () => {
     <h6>Category <strong>${post.category}</strong></h6>
     <p class="p-3">${post.body}</p>
     <p class="p-3">Written By: <strong>${post.author}</strong></p>
-    <button href="#" class="btn btn-info delete">Delete post</button>
-    `;
+    <div class="row">
+        <div class="col-12 col-md-6"><a href="/index.html" class="btn btn-info" style="width: 100%">Return Home</a></div>
+        <div class="col-12 col-md-6"><button class="btn btn-info delete" style="width: 100%">Delete post</button></div>
+    </div>`;
 
     const templateTwo = `<img class="sticky-top"  src="${post.image}" alt="" style="width:100%">`;
 
