@@ -21,7 +21,6 @@ const renderPost = async () => {
         <p class="card-text">${post.excerpt}...</p>
         <p>Written By: <strong> ${post.author}</strong> in <strong>${post.category}</strong></p>
         <a class="btn btn-info" href="/details.html?id=${post.id}">read more...</a>
-        <button href="#" class="btn btn-info">Delete post</button>
     </div>
     </div>`;
     });

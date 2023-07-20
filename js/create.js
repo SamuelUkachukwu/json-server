@@ -3,6 +3,7 @@
 
 const form = document.querySelector('.new-blog');
 
+
 const createPost = async (e) => {
     e.preventDefault();
 
@@ -11,7 +12,7 @@ const createPost = async (e) => {
         body: form.body.value,
         author: form.author.value,
         category: form.category.value,
-        image: form.image.value,
+        image: "images/",
         excerpt: form.excerpt.value,
     };
 
@@ -34,6 +35,7 @@ const createPost = async (e) => {
         console.error('Error creating post:', error);
         // Handle the error appropriately (e.g., show a user-friendly error message)
     }
+
 };
 
 form.addEventListener('submit', createPost);
